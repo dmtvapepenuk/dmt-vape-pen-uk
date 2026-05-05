@@ -2,7 +2,8 @@
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/astro-blog-starter-template)
 
-https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d](https://mushroom-gummies.eu/product-category/microdose-shrooms/
+
+https://mushroom-gummies.eu/product-category/microdose-shrooms/
 
 <!-- dash-content-start -->
 
