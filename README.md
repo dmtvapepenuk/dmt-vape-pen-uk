@@ -6,7 +6,7 @@
 
 <!-- dash-content-start -->
 
-Create a blog with Astro and deploy it on Cloudflare Workers as a [static website](https://developers.cloudflare.com/workers/static-assets/).
+Create a blog with Astro and deploy it on Cloudflare Workers as a [static website](https://dmtpen.com.de/shop/)].
 
 Features:
 
@@ -55,7 +55,7 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Check out [buy magic mushroom ]((https://buymagicmushrooms-usa.com/shop/)] or jump into our [Discord server](https://astro.build/chat).
 
 ## Credit
 
